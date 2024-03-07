@@ -1,6 +1,6 @@
 # JWTSecretGen
 
-JWTSecretor is a tool written in Go for generating JSON Web Token (JWT) secrets securely.
+JWTSecretGen is a tool written in Go for generating JSON Web Token (JWT) secrets securely.
 
 ## Usage
 
